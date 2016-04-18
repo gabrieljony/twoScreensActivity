@@ -4,4 +4,4 @@
 
 Transaction activity of a screen to a second screen with data entered in the first.
 
-![](https://www.dropbox.com/s/kpnatbro983roei/primeira_tela.jpg)
+![](http://imageshack.com/a/img922/3489/8LCtGQ.jpg) ![](http://imageshack.com/a/img921/3487/iNF7Np.jpg)
